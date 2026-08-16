@@ -1,0 +1,251 @@
+"Finding_ID","Project","CWE_Rule","Severity","Status","Discovery_Date","Remediation_Days","Resolved_Date"
+"SAST-0001","User-Portal","CWE-78: Command Injection","High","False Positive",2026-01-30,NA,NA
+"SAST-0002","User-Portal","CWE-79: Cross-Site Scripting (XSS)","High","Open",2026-03-05,NA,NA
+"SAST-0003","Auth-Service","CWE-78: Command Injection","Medium","Open",2026-01-29,NA,NA
+"SAST-0004","Payment-API","CWE-798: Hardcoded Secret","Low","Fixed",2026-04-08,14,"2026-04-22"
+"SAST-0005","Data-Pipeline","CWE-79: Cross-Site Scripting (XSS)","Medium","Fixed",2026-03-13,21,"2026-04-03"
+"SAST-0006","Auth-Service","CWE-22: Path Traversal","High","Fixed",2026-03-14,15,"2026-03-29"
+"SAST-0007","User-Portal","CWE-79: Cross-Site Scripting (XSS)","Medium","False Positive",2026-02-23,NA,NA
+"SAST-0008","User-Portal","CWE-89: SQL Injection","Medium","Fixed",2026-02-09,11,"2026-02-20"
+"SAST-0009","Auth-Service","CWE-79: Cross-Site Scripting (XSS)","Medium","Open",2026-03-29,NA,NA
+"SAST-0010","Payment-API","CWE-79: Cross-Site Scripting (XSS)","High","Open",2026-01-24,NA,NA
+"SAST-0011","User-Portal","CWE-22: Path Traversal","High","Fixed",2026-04-03,12,"2026-04-15"
+"SAST-0012","Auth-Service","CWE-79: Cross-Site Scripting (XSS)","Critical","Fixed",2026-04-24,15,"2026-05-09"
+"SAST-0013","Payment-API","CWE-22: Path Traversal","Critical","Fixed",2026-02-22,12,"2026-03-06"
+"SAST-0014","Data-Pipeline","CWE-79: Cross-Site Scripting (XSS)","High","Open",2026-03-18,NA,NA
+"SAST-0015","User-Portal","CWE-22: Path Traversal","High","Fixed",2026-01-11,8,"2026-01-19"
+"SAST-0016","Data-Pipeline","CWE-22: Path Traversal","Medium","Open",2026-04-08,NA,NA
+"SAST-0017","User-Portal","CWE-798: Hardcoded Secret","High","Open",2026-03-06,NA,NA
+"SAST-0018","Payment-API","CWE-79: Cross-Site Scripting (XSS)","Low","Fixed",2026-02-16,11,"2026-02-27"
+"SAST-0019","Payment-API","CWE-89: SQL Injection","Medium","Fixed",2026-03-09,18,"2026-03-27"
+"SAST-0020","Payment-API","CWE-79: Cross-Site Scripting (XSS)","Medium","Open",2026-04-03,NA,NA
+"SAST-0021","Data-Pipeline","CWE-89: SQL Injection","Critical","Open",2026-01-26,NA,NA
+"SAST-0022","User-Portal","CWE-798: Hardcoded Secret","High","Fixed",2026-04-21,11,"2026-05-02"
+"SAST-0023","User-Portal","CWE-89: SQL Injection","Medium","False Positive",2026-03-18,NA,NA
+"SAST-0024","Data-Pipeline","CWE-200: Sensitive Info Exposure","Medium","Open",2026-02-22,NA,NA
+"SAST-0025","Payment-API","CWE-89: SQL Injection","Low","False Positive",2026-01-04,NA,NA
+"SAST-0026","Auth-Service","CWE-78: Command Injection","High","Open",2026-04-02,NA,NA
+"SAST-0027","User-Portal","CWE-78: Command Injection","Medium","Open",2026-01-29,NA,NA
+"SAST-0028","Data-Pipeline","CWE-798: Hardcoded Secret","Low","Fixed",2026-04-16,12,"2026-04-28"
+"SAST-0029","Payment-API","CWE-200: Sensitive Info Exposure","Medium","Open",2026-02-11,NA,NA
+"SAST-0030","Auth-Service","CWE-22: Path Traversal","High","Open",2026-01-25,NA,NA
+"SAST-0031","Payment-API","CWE-200: Sensitive Info Exposure","Medium","False Positive",2026-01-20,NA,NA
+"SAST-0032","Payment-API","CWE-78: Command Injection","Medium","Fixed",2026-02-13,4,"2026-02-17"
+"SAST-0033","Payment-API","CWE-22: Path Traversal","Medium","Fixed",2026-02-22,12,"2026-03-06"
+"SAST-0034","Auth-Service","CWE-78: Command Injection","Medium","Fixed",2026-01-13,15,"2026-01-28"
+"SAST-0035","Payment-API","CWE-22: Path Traversal","Critical","Fixed",2026-03-12,14,"2026-03-26"
+"SAST-0036","Payment-API","CWE-798: Hardcoded Secret","Medium","False Positive",2026-01-01,NA,NA
+"SAST-0037","User-Portal","CWE-200: Sensitive Info Exposure","High","Fixed",2026-02-12,10,"2026-02-22"
+"SAST-0038","Payment-API","CWE-79: Cross-Site Scripting (XSS)","Critical","Open",2026-03-07,NA,NA
+"SAST-0039","Payment-API","CWE-78: Command Injection","Low","Fixed",2026-02-26,14,"2026-03-12"
+"SAST-0040","Payment-API","CWE-78: Command Injection","Medium","Fixed",2026-01-03,15,"2026-01-18"
+"SAST-0041","Payment-API","CWE-79: Cross-Site Scripting (XSS)","Medium","Fixed",2026-01-19,12,"2026-01-31"
+"SAST-0042","User-Portal","CWE-200: Sensitive Info Exposure","Low","False Positive",2026-04-17,NA,NA
+"SAST-0043","Payment-API","CWE-22: Path Traversal","High","Open",2026-03-23,NA,NA
+"SAST-0044","Auth-Service","CWE-89: SQL Injection","Critical","Open",2026-01-13,NA,NA
+"SAST-0045","User-Portal","CWE-89: SQL Injection","High","False Positive",2026-02-13,NA,NA
+"SAST-0046","User-Portal","CWE-200: Sensitive Info Exposure","Low","Open",2026-01-18,NA,NA
+"SAST-0047","Payment-API","CWE-89: SQL Injection","Medium","Open",2026-04-10,NA,NA
+"SAST-0048","User-Portal","CWE-22: Path Traversal","High","Open",2026-02-19,NA,NA
+"SAST-0049","User-Portal","CWE-200: Sensitive Info Exposure","Low","Open",2026-04-26,NA,NA
+"SAST-0050","User-Portal","CWE-798: Hardcoded Secret","Low","False Positive",2026-04-13,NA,NA
+"SAST-0051","Payment-API","CWE-200: Sensitive Info Exposure","Medium","False Positive",2026-03-28,NA,NA
+"SAST-0052","Auth-Service","CWE-200: Sensitive Info Exposure","Medium","Fixed",2026-03-19,5,"2026-03-24"
+"SAST-0053","Auth-Service","CWE-78: Command Injection","High","Fixed",2026-04-06,21,"2026-04-27"
+"SAST-0054","Auth-Service","CWE-798: Hardcoded Secret","Critical","False Positive",2026-03-19,NA,NA
+"SAST-0055","Data-Pipeline","CWE-79: Cross-Site Scripting (XSS)","High","False Positive",2026-03-19,NA,NA
+"SAST-0056","Data-Pipeline","CWE-200: Sensitive Info Exposure","Critical","Fixed",2026-04-29,19,"2026-05-18"
+"SAST-0057","Payment-API","CWE-89: SQL Injection","Low","Open",2026-02-21,NA,NA
+"SAST-0058","Payment-API","CWE-79: Cross-Site Scripting (XSS)","Low","Open",2026-03-02,NA,NA
+"SAST-0059","User-Portal","CWE-79: Cross-Site Scripting (XSS)","Critical","Open",2026-01-18,NA,NA
+"SAST-0060","User-Portal","CWE-798: Hardcoded Secret","High","False Positive",2026-01-14,NA,NA
+"SAST-0061","Auth-Service","CWE-798: Hardcoded Secret","Low","Fixed",2026-01-07,10,"2026-01-17"
+"SAST-0062","Auth-Service","CWE-79: Cross-Site Scripting (XSS)","Low","Fixed",2026-04-27,16,"2026-05-13"
+"SAST-0063","User-Portal","CWE-79: Cross-Site Scripting (XSS)","Critical","Fixed",2026-02-01,5,"2026-02-06"
+"SAST-0064","Payment-API","CWE-798: Hardcoded Secret","High","Fixed",2026-01-25,12,"2026-02-06"
+"SAST-0065","Payment-API","CWE-89: SQL Injection","High","Open",2026-02-21,NA,NA
+"SAST-0066","Data-Pipeline","CWE-79: Cross-Site Scripting (XSS)","Medium","Fixed",2026-02-15,6,"2026-02-21"
+"SAST-0067","Payment-API","CWE-89: SQL Injection","Medium","Fixed",2026-04-28,18,"2026-05-16"
+"SAST-0068","User-Portal","CWE-798: Hardcoded Secret","Critical","Fixed",2026-04-17,5,"2026-04-22"
+"SAST-0069","User-Portal","CWE-200: Sensitive Info Exposure","Low","Open",2026-01-02,NA,NA
+"SAST-0070","Auth-Service","CWE-798: Hardcoded Secret","Critical","Fixed",2026-03-14,11,"2026-03-25"
+"SAST-0071","User-Portal","CWE-22: Path Traversal","Critical","Fixed",2026-02-02,15,"2026-02-17"
+"SAST-0072","Auth-Service","CWE-22: Path Traversal","Medium","Fixed",2026-03-17,8,"2026-03-25"
+"SAST-0073","Payment-API","CWE-798: Hardcoded Secret","Low","Fixed",2026-03-08,18,"2026-03-26"
+"SAST-0074","Payment-API","CWE-200: Sensitive Info Exposure","Medium","Open",2026-02-08,NA,NA
+"SAST-0075","Data-Pipeline","CWE-78: Command Injection","Medium","Fixed",2026-02-02,10,"2026-02-12"
+"SAST-0076","Auth-Service","CWE-79: Cross-Site Scripting (XSS)","Low","False Positive",2026-01-18,NA,NA
+"SAST-0077","Auth-Service","CWE-798: Hardcoded Secret","High","Fixed",2026-01-18,12,"2026-01-30"
+"SAST-0078","Auth-Service","CWE-79: Cross-Site Scripting (XSS)","High","False Positive",2026-02-20,NA,NA
+"SAST-0079","User-Portal","CWE-798: Hardcoded Secret","Medium","Open",2026-04-18,NA,NA
+"SAST-0080","Data-Pipeline","CWE-22: Path Traversal","High","Fixed",2026-02-06,25,"2026-03-03"
+"SAST-0081","Auth-Service","CWE-200: Sensitive Info Exposure","High","Fixed",2026-03-24,8,"2026-04-01"
+"SAST-0082","Auth-Service","CWE-79: Cross-Site Scripting (XSS)","Low","Open",2026-02-12,NA,NA
+"SAST-0083","User-Portal","CWE-798: Hardcoded Secret","High","Fixed",2026-01-04,18,"2026-01-22"
+"SAST-0084","Auth-Service","CWE-22: Path Traversal","Medium","False Positive",2026-02-27,NA,NA
+"SAST-0085","Auth-Service","CWE-22: Path Traversal","Medium","Fixed",2026-03-12,19,"2026-03-31"
+"SAST-0086","Auth-Service","CWE-22: Path Traversal","High","False Positive",2026-03-28,NA,NA
+"SAST-0087","Auth-Service","CWE-89: SQL Injection","Critical","Open",2026-03-09,NA,NA
+"SAST-0088","Auth-Service","CWE-798: Hardcoded Secret","High","Open",2026-01-01,NA,NA
+"SAST-0089","Data-Pipeline","CWE-89: SQL Injection","Low","Open",2026-01-03,NA,NA
+"SAST-0090","Auth-Service","CWE-89: SQL Injection","Low","Fixed",2026-01-23,6,"2026-01-29"
+"SAST-0091","Data-Pipeline","CWE-89: SQL Injection","Low","False Positive",2026-04-23,NA,NA
+"SAST-0092","User-Portal","CWE-78: Command Injection","Critical","Fixed",2026-03-20,6,"2026-03-26"
+"SAST-0093","User-Portal","CWE-89: SQL Injection","Medium","Open",2026-02-04,NA,NA
+"SAST-0094","Auth-Service","CWE-200: Sensitive Info Exposure","Low","Open",2026-04-22,NA,NA
+"SAST-0095","Payment-API","CWE-89: SQL Injection","Medium","False Positive",2026-03-02,NA,NA
+"SAST-0096","Data-Pipeline","CWE-200: Sensitive Info Exposure","Low","Open",2026-04-26,NA,NA
+"SAST-0097","Payment-API","CWE-78: Command Injection","Critical","Open",2026-03-06,NA,NA
+"SAST-0098","Auth-Service","CWE-798: Hardcoded Secret","High","Open",2026-01-10,NA,NA
+"SAST-0099","Data-Pipeline","CWE-78: Command Injection","Medium","Fixed",2026-03-28,12,"2026-04-09"
+"SAST-0100","Payment-API","CWE-78: Command Injection","Low","False Positive",2026-04-06,NA,NA
+"SAST-0101","Auth-Service","CWE-89: SQL Injection","Critical","Open",2026-02-07,NA,NA
+"SAST-0102","Auth-Service","CWE-78: Command Injection","Low","Fixed",2026-01-20,9,"2026-01-29"
+"SAST-0103","User-Portal","CWE-78: Command Injection","Medium","Fixed",2026-03-02,21,"2026-03-23"
+"SAST-0104","User-Portal","CWE-798: Hardcoded Secret","Low","Fixed",2026-01-27,9,"2026-02-05"
+"SAST-0105","Payment-API","CWE-200: Sensitive Info Exposure","Low","Fixed",2026-04-23,18,"2026-05-11"
+"SAST-0106","Payment-API","CWE-89: SQL Injection","Critical","Open",2026-04-26,NA,NA
+"SAST-0107","Auth-Service","CWE-89: SQL Injection","Medium","Fixed",2026-02-13,3,"2026-02-16"
+"SAST-0108","User-Portal","CWE-798: Hardcoded Secret","Critical","Open",2026-04-06,NA,NA
+"SAST-0109","User-Portal","CWE-22: Path Traversal","Medium","Fixed",2026-04-14,13,"2026-04-27"
+"SAST-0110","Auth-Service","CWE-22: Path Traversal","Medium","Fixed",2026-02-16,15,"2026-03-03"
+"SAST-0111","Auth-Service","CWE-78: Command Injection","Medium","Fixed",2026-03-19,17,"2026-04-05"
+"SAST-0112","Auth-Service","CWE-22: Path Traversal","Medium","Fixed",2026-05-01,9,"2026-05-10"
+"SAST-0113","User-Portal","CWE-79: Cross-Site Scripting (XSS)","High","Fixed",2026-03-05,10,"2026-03-15"
+"SAST-0114","User-Portal","CWE-22: Path Traversal","Medium","Open",2026-03-24,NA,NA
+"SAST-0115","Data-Pipeline","CWE-89: SQL Injection","Critical","Open",2026-04-25,NA,NA
+"SAST-0116","Data-Pipeline","CWE-22: Path Traversal","Medium","Open",2026-03-25,NA,NA
+"SAST-0117","User-Portal","CWE-79: Cross-Site Scripting (XSS)","High","Fixed",2026-01-19,11,"2026-01-30"
+"SAST-0118","Payment-API","CWE-22: Path Traversal","Medium","Fixed",2026-02-17,9,"2026-02-26"
+"SAST-0119","User-Portal","CWE-89: SQL Injection","Critical","Fixed",2026-02-16,10,"2026-02-26"
+"SAST-0120","User-Portal","CWE-89: SQL Injection","High","Fixed",2026-04-28,13,"2026-05-11"
+"SAST-0121","User-Portal","CWE-798: Hardcoded Secret","Low","Fixed",2026-02-15,9,"2026-02-24"
+"SAST-0122","Data-Pipeline","CWE-798: Hardcoded Secret","Medium","False Positive",2026-01-10,NA,NA
+"SAST-0123","Auth-Service","CWE-79: Cross-Site Scripting (XSS)","Medium","Fixed",2026-03-26,19,"2026-04-14"
+"SAST-0124","Payment-API","CWE-200: Sensitive Info Exposure","Low","Open",2026-02-03,NA,NA
+"SAST-0125","Auth-Service","CWE-22: Path Traversal","High","Fixed",2026-04-05,14,"2026-04-19"
+"SAST-0126","Data-Pipeline","CWE-79: Cross-Site Scripting (XSS)","Medium","Fixed",2026-03-03,16,"2026-03-19"
+"SAST-0127","Payment-API","CWE-22: Path Traversal","Medium","False Positive",2026-02-03,NA,NA
+"SAST-0128","Data-Pipeline","CWE-22: Path Traversal","Medium","Fixed",2026-01-01,10,"2026-01-11"
+"SAST-0129","Auth-Service","CWE-78: Command Injection","Critical","Open",2026-02-12,NA,NA
+"SAST-0130","Payment-API","CWE-798: Hardcoded Secret","Critical","Fixed",2026-01-21,14,"2026-02-04"
+"SAST-0131","Auth-Service","CWE-78: Command Injection","Medium","Fixed",2026-02-27,4,"2026-03-03"
+"SAST-0132","Auth-Service","CWE-798: Hardcoded Secret","Medium","Open",2026-03-23,NA,NA
+"SAST-0133","User-Portal","CWE-798: Hardcoded Secret","Medium","Open",2026-04-21,NA,NA
+"SAST-0134","User-Portal","CWE-78: Command Injection","Medium","False Positive",2026-04-08,NA,NA
+"SAST-0135","Auth-Service","CWE-798: Hardcoded Secret","High","Fixed",2026-01-21,15,"2026-02-05"
+"SAST-0136","Data-Pipeline","CWE-22: Path Traversal","Low","Open",2026-01-18,NA,NA
+"SAST-0137","User-Portal","CWE-78: Command Injection","Low","Fixed",2026-01-08,13,"2026-01-21"
+"SAST-0138","Auth-Service","CWE-22: Path Traversal","High","False Positive",2026-03-12,NA,NA
+"SAST-0139","User-Portal","CWE-798: Hardcoded Secret","High","Open",2026-04-01,NA,NA
+"SAST-0140","Auth-Service","CWE-78: Command Injection","Low","Open",2026-04-01,NA,NA
+"SAST-0141","User-Portal","CWE-89: SQL Injection","Critical","Open",2026-01-11,NA,NA
+"SAST-0142","Payment-API","CWE-79: Cross-Site Scripting (XSS)","Low","Fixed",2026-02-05,10,"2026-02-15"
+"SAST-0143","Data-Pipeline","CWE-89: SQL Injection","Low","Fixed",2026-02-23,17,"2026-03-12"
+"SAST-0144","Payment-API","CWE-798: Hardcoded Secret","Medium","Open",2026-03-31,NA,NA
+"SAST-0145","Auth-Service","CWE-22: Path Traversal","Low","False Positive",2026-03-24,NA,NA
+"SAST-0146","Auth-Service","CWE-200: Sensitive Info Exposure","High","Open",2026-03-09,NA,NA
+"SAST-0147","Payment-API","CWE-78: Command Injection","Medium","Fixed",2026-01-29,11,"2026-02-09"
+"SAST-0148","User-Portal","CWE-22: Path Traversal","Low","Open",2026-03-11,NA,NA
+"SAST-0149","User-Portal","CWE-79: Cross-Site Scripting (XSS)","High","Open",2026-01-02,NA,NA
+"SAST-0150","Data-Pipeline","CWE-89: SQL Injection","Critical","Fixed",2026-01-06,7,"2026-01-13"
+"SAST-0151","Auth-Service","CWE-78: Command Injection","High","Fixed",2026-03-20,8,"2026-03-28"
+"SAST-0152","User-Portal","CWE-79: Cross-Site Scripting (XSS)","Medium","Fixed",2026-03-11,13,"2026-03-24"
+"SAST-0153","Auth-Service","CWE-79: Cross-Site Scripting (XSS)","Critical","Fixed",2026-03-22,21,"2026-04-12"
+"SAST-0154","Auth-Service","CWE-89: SQL Injection","Medium","Open",2026-04-08,NA,NA
+"SAST-0155","User-Portal","CWE-200: Sensitive Info Exposure","High","Fixed",2026-02-05,9,"2026-02-14"
+"SAST-0156","User-Portal","CWE-78: Command Injection","Medium","Fixed",2026-04-14,17,"2026-05-01"
+"SAST-0157","Auth-Service","CWE-200: Sensitive Info Exposure","High","False Positive",2026-01-13,NA,NA
+"SAST-0158","User-Portal","CWE-22: Path Traversal","High","Fixed",2026-03-21,9,"2026-03-30"
+"SAST-0159","Auth-Service","CWE-89: SQL Injection","Low","False Positive",2026-04-18,NA,NA
+"SAST-0160","User-Portal","CWE-78: Command Injection","Medium","Open",2026-02-28,NA,NA
+"SAST-0161","Auth-Service","CWE-798: Hardcoded Secret","Low","Open",2026-03-02,NA,NA
+"SAST-0162","User-Portal","CWE-78: Command Injection","Medium","Fixed",2026-04-17,10,"2026-04-27"
+"SAST-0163","Payment-API","CWE-79: Cross-Site Scripting (XSS)","Medium","Open",2026-04-24,NA,NA
+"SAST-0164","Payment-API","CWE-89: SQL Injection","Medium","False Positive",2026-04-15,NA,NA
+"SAST-0165","User-Portal","CWE-78: Command Injection","Medium","Fixed",2026-02-07,7,"2026-02-14"
+"SAST-0166","Payment-API","CWE-79: Cross-Site Scripting (XSS)","High","Open",2026-04-22,NA,NA
+"SAST-0167","Auth-Service","CWE-79: Cross-Site Scripting (XSS)","Medium","Open",2026-03-14,NA,NA
+"SAST-0168","Auth-Service","CWE-78: Command Injection","Low","Fixed",2026-04-09,10,"2026-04-19"
+"SAST-0169","Payment-API","CWE-78: Command Injection","Medium","Fixed",2026-02-28,17,"2026-03-17"
+"SAST-0170","Auth-Service","CWE-200: Sensitive Info Exposure","High","Fixed",2026-01-26,11,"2026-02-06"
+"SAST-0171","Auth-Service","CWE-22: Path Traversal","Medium","False Positive",2026-04-18,NA,NA
+"SAST-0172","Data-Pipeline","CWE-78: Command Injection","Medium","Fixed",2026-02-08,29,"2026-03-09"
+"SAST-0173","Auth-Service","CWE-200: Sensitive Info Exposure","High","Fixed",2026-02-27,27,"2026-03-26"
+"SAST-0174","Payment-API","CWE-89: SQL Injection","Low","False Positive",2026-03-09,NA,NA
+"SAST-0175","Payment-API","CWE-22: Path Traversal","High","False Positive",2026-01-15,NA,NA
+"SAST-0176","Payment-API","CWE-798: Hardcoded Secret","High","Fixed",2026-03-01,16,"2026-03-17"
+"SAST-0177","User-Portal","CWE-22: Path Traversal","Medium","Open",2026-04-03,NA,NA
+"SAST-0178","User-Portal","CWE-78: Command Injection","High","Open",2026-03-08,NA,NA
+"SAST-0179","User-Portal","CWE-89: SQL Injection","High","False Positive",2026-02-11,NA,NA
+"SAST-0180","Payment-API","CWE-89: SQL Injection","Medium","Fixed",2026-05-01,15,"2026-05-16"
+"SAST-0181","Auth-Service","CWE-78: Command Injection","Medium","False Positive",2026-01-16,NA,NA
+"SAST-0182","Auth-Service","CWE-79: Cross-Site Scripting (XSS)","Critical","Fixed",2026-02-15,14,"2026-03-01"
+"SAST-0183","Auth-Service","CWE-78: Command Injection","Low","False Positive",2026-02-28,NA,NA
+"SAST-0184","Payment-API","CWE-798: Hardcoded Secret","Medium","False Positive",2026-03-28,NA,NA
+"SAST-0185","Data-Pipeline","CWE-798: Hardcoded Secret","Medium","False Positive",2026-02-07,NA,NA
+"SAST-0186","Auth-Service","CWE-79: Cross-Site Scripting (XSS)","Medium","Fixed",2026-03-11,19,"2026-03-30"
+"SAST-0187","User-Portal","CWE-89: SQL Injection","Low","Open",2026-02-24,NA,NA
+"SAST-0188","Payment-API","CWE-22: Path Traversal","Medium","Fixed",2026-03-17,12,"2026-03-29"
+"SAST-0189","Payment-API","CWE-22: Path Traversal","Medium","Fixed",2026-05-01,15,"2026-05-16"
+"SAST-0190","Payment-API","CWE-798: Hardcoded Secret","High","False Positive",2026-02-22,NA,NA
+"SAST-0191","Auth-Service","CWE-200: Sensitive Info Exposure","High","Fixed",2026-03-30,16,"2026-04-15"
+"SAST-0192","User-Portal","CWE-22: Path Traversal","Medium","Fixed",2026-04-10,12,"2026-04-22"
+"SAST-0193","Auth-Service","CWE-89: SQL Injection","Medium","False Positive",2026-02-04,NA,NA
+"SAST-0194","Payment-API","CWE-78: Command Injection","Medium","False Positive",2026-04-06,NA,NA
+"SAST-0195","User-Portal","CWE-78: Command Injection","Medium","Fixed",2026-02-24,9,"2026-03-05"
+"SAST-0196","User-Portal","CWE-78: Command Injection","Critical","Open",2026-04-24,NA,NA
+"SAST-0197","Data-Pipeline","CWE-798: Hardcoded Secret","Critical","Open",2026-01-14,NA,NA
+"SAST-0198","User-Portal","CWE-78: Command Injection","High","Open",2026-04-12,NA,NA
+"SAST-0199","Auth-Service","CWE-200: Sensitive Info Exposure","Medium","Fixed",2026-01-21,10,"2026-01-31"
+"SAST-0200","Payment-API","CWE-200: Sensitive Info Exposure","High","Fixed",2026-04-28,16,"2026-05-14"
+"SAST-0201","Auth-Service","CWE-200: Sensitive Info Exposure","Medium","Open",2026-02-13,NA,NA
+"SAST-0202","Data-Pipeline","CWE-78: Command Injection","Critical","Fixed",2026-01-02,9,"2026-01-11"
+"SAST-0203","Payment-API","CWE-89: SQL Injection","High","Fixed",2026-02-11,16,"2026-02-27"
+"SAST-0204","Payment-API","CWE-798: Hardcoded Secret","Medium","Fixed",2026-02-02,13,"2026-02-15"
+"SAST-0205","Payment-API","CWE-79: Cross-Site Scripting (XSS)","Critical","Fixed",2026-04-22,19,"2026-05-11"
+"SAST-0206","Auth-Service","CWE-78: Command Injection","Low","Fixed",2026-05-01,14,"2026-05-15"
+"SAST-0207","User-Portal","CWE-89: SQL Injection","Low","Open",2026-03-11,NA,NA
+"SAST-0208","User-Portal","CWE-22: Path Traversal","High","Open",2026-04-19,NA,NA
+"SAST-0209","User-Portal","CWE-89: SQL Injection","High","False Positive",2026-04-05,NA,NA
+"SAST-0210","Auth-Service","CWE-78: Command Injection","Critical","Open",2026-03-17,NA,NA
+"SAST-0211","Payment-API","CWE-22: Path Traversal","Critical","Fixed",2026-03-19,13,"2026-04-01"
+"SAST-0212","Payment-API","CWE-798: Hardcoded Secret","Medium","Open",2026-04-21,NA,NA
+"SAST-0213","Data-Pipeline","CWE-200: Sensitive Info Exposure","High","Fixed",2026-02-17,4,"2026-02-21"
+"SAST-0214","Payment-API","CWE-78: Command Injection","Critical","Open",2026-03-05,NA,NA
+"SAST-0215","User-Portal","CWE-79: Cross-Site Scripting (XSS)","Low","False Positive",2026-04-18,NA,NA
+"SAST-0216","Payment-API","CWE-200: Sensitive Info Exposure","Low","Fixed",2026-02-20,10,"2026-03-02"
+"SAST-0217","Payment-API","CWE-798: Hardcoded Secret","Medium","Fixed",2026-04-29,15,"2026-05-14"
+"SAST-0218","Auth-Service","CWE-79: Cross-Site Scripting (XSS)","High","Fixed",2026-03-31,11,"2026-04-11"
+"SAST-0219","Payment-API","CWE-89: SQL Injection","Low","Open",2026-02-14,NA,NA
+"SAST-0220","Payment-API","CWE-78: Command Injection","Medium","Fixed",2026-03-17,22,"2026-04-08"
+"SAST-0221","Payment-API","CWE-798: Hardcoded Secret","High","Open",2026-02-05,NA,NA
+"SAST-0222","User-Portal","CWE-78: Command Injection","High","Fixed",2026-03-05,14,"2026-03-19"
+"SAST-0223","Payment-API","CWE-79: Cross-Site Scripting (XSS)","High","Open",2026-01-25,NA,NA
+"SAST-0224","Payment-API","CWE-200: Sensitive Info Exposure","Medium","Fixed",2026-01-14,15,"2026-01-29"
+"SAST-0225","User-Portal","CWE-200: Sensitive Info Exposure","Critical","False Positive",2026-01-12,NA,NA
+"SAST-0226","Data-Pipeline","CWE-89: SQL Injection","High","Fixed",2026-01-23,9,"2026-02-01"
+"SAST-0227","Payment-API","CWE-79: Cross-Site Scripting (XSS)","Low","Fixed",2026-03-28,13,"2026-04-10"
+"SAST-0228","User-Portal","CWE-79: Cross-Site Scripting (XSS)","Medium","Fixed",2026-04-23,10,"2026-05-03"
+"SAST-0229","Payment-API","CWE-22: Path Traversal","Critical","False Positive",2026-03-15,NA,NA
+"SAST-0230","Data-Pipeline","CWE-89: SQL Injection","Medium","Fixed",2026-01-21,11,"2026-02-01"
+"SAST-0231","Data-Pipeline","CWE-79: Cross-Site Scripting (XSS)","Low","False Positive",2026-04-11,NA,NA
+"SAST-0232","User-Portal","CWE-78: Command Injection","Critical","Fixed",2026-03-28,18,"2026-04-15"
+"SAST-0233","Data-Pipeline","CWE-89: SQL Injection","Medium","Fixed",2026-02-01,17,"2026-02-18"
+"SAST-0234","Auth-Service","CWE-89: SQL Injection","High","Open",2026-02-19,NA,NA
+"SAST-0235","Auth-Service","CWE-200: Sensitive Info Exposure","Medium","Open",2026-01-06,NA,NA
+"SAST-0236","Auth-Service","CWE-89: SQL Injection","High","Fixed",2026-03-08,13,"2026-03-21"
+"SAST-0237","Auth-Service","CWE-200: Sensitive Info Exposure","High","Fixed",2026-03-17,10,"2026-03-27"
+"SAST-0238","Payment-API","CWE-22: Path Traversal","Critical","Fixed",2026-01-22,12,"2026-02-03"
+"SAST-0239","Data-Pipeline","CWE-89: SQL Injection","Medium","False Positive",2026-02-18,NA,NA
+"SAST-0240","Data-Pipeline","CWE-78: Command Injection","High","Fixed",2026-02-21,10,"2026-03-03"
+"SAST-0241","Payment-API","CWE-78: Command Injection","High","Open",2026-04-25,NA,NA
+"SAST-0242","Auth-Service","CWE-200: Sensitive Info Exposure","High","False Positive",2026-02-18,NA,NA
+"SAST-0243","Auth-Service","CWE-89: SQL Injection","High","Fixed",2026-03-07,6,"2026-03-13"
+"SAST-0244","Auth-Service","CWE-79: Cross-Site Scripting (XSS)","Critical","Fixed",2026-02-25,20,"2026-03-17"
+"SAST-0245","Payment-API","CWE-798: Hardcoded Secret","Medium","Open",2026-03-11,NA,NA
+"SAST-0246","User-Portal","CWE-22: Path Traversal","Medium","Open",2026-04-15,NA,NA
+"SAST-0247","User-Portal","CWE-798: Hardcoded Secret","High","Open",2026-02-05,NA,NA
+"SAST-0248","Data-Pipeline","CWE-78: Command Injection","Medium","Fixed",2026-04-03,10,"2026-04-13"
+"SAST-0249","Data-Pipeline","CWE-89: SQL Injection","Medium","Open",2026-04-25,NA,NA
+"SAST-0250","Payment-API","CWE-79: Cross-Site Scripting (XSS)","High","Open",2026-01-11,NA,NA
